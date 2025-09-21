@@ -3,6 +3,6 @@ We are an Ace of Spades community that focus in hosting custom gamemodes, here y
 
 Feel free to contribute, modify or use it.
 
-Website: https://aos.center
-AoS wiki: https://wiki.aos.center
-Discord: https://discord.aos.center
+- Website: https://aos.center
+- AoS wiki: https://wiki.aos.center
+- Discord: https://discord.aos.center
